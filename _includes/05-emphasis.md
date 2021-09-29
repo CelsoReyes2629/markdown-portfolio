@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I am good in business management*
+_I am good programming_
+
+**I like to study**
+__I am really apassionated__
